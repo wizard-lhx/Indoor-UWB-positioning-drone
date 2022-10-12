@@ -1,0 +1,8 @@
+请按如下顺序安装： 
+
+1，安装mdk_514.exe 
+2，安装Keil.STM32F4xx_DFP.1.0.8.pack
+3，破解
+
+
+详见：光盘\1，ALIENTEK探索者STM32F4开发板入门资料\MDK5.14安装手册.pdf
